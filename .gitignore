@@ -1,0 +1,7 @@
+log/*
+!log/.keep
+storage/*
+!storage/.keep
+tmp/*
+!tmp/.keep
+config/master.key
